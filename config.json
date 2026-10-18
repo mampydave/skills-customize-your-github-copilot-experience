@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-handling",
+      "title": "Python File Handling and Data Persistence",
+      "description": "Read, write, and store data using Python file operations",
+      "path": "assignments/python-file-handling",
+      "dueDate": "2026-10-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
